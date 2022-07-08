@@ -78,7 +78,7 @@ export const MainPage = () => {
                 {/* ISLANDS 1 */}
                 <SwiperSlide>
                 <section className="islands" id="island1">
-                <img src="src\assets\img\opcion3.jpg" alt="" className="islands__bg" />
+                <img src="https://i.imgur.com/Kn1JjEu.jpg" alt="" className="islands__bg" />
                 <div className="islands__container bd-container">
                     <div className="islands__data">
                         <h2 className="islands__subtitle">Nos encargamos de tu</h2>
@@ -99,7 +99,7 @@ export const MainPage = () => {
               <SwiperSlide>
 
                <section className="islands" id="island2">
-                <img src="src\assets\img\empresa.jpg" alt="" className="islands__bg" />
+                <img src="https://i.imgur.com/nq4ts7n.jpg" alt="" className="islands__bg" />
                 <div className="islands__container bd-container">
                     <div className="islands__data">
                         <h2 className="islands__subtitle">Nos encargamos de tu</h2>
@@ -120,7 +120,7 @@ export const MainPage = () => {
                <SwiperSlide>
                 
                 <section className="islands" id="island3">
-                <img src="src\assets\img\option6.jpg" alt="" className="islands__bg" />
+                <img src="https://i.imgur.com/VjG4QKc.jpg" alt="" className="islands__bg" />
                 <div className="islands__container bd-container">
                     <div className="islands__data">
                         <h2 className="islands__subtitle">Nos encargamos de tus</h2>
@@ -152,9 +152,9 @@ export const MainPage = () => {
         {/* CONTROLS */}
         <div className="controls">
             <div className="controls__container">
-                <a href="#island1" className="controls__links"><img onClick={controlImg}  href='#' src="src\assets\img\opcion3.jpg" alt="" className="controls__img" /></a>
-                <a href="#island2" className="controls__links"><img onClick={controlImg}  src="src\assets\img\empresa.jpg" alt="" className="controls__img" /></a>
-                <a href="#island3" className="controls__links"><img onClick={controlImg}  src="src\assets\img\option6.jpg" alt="" className="controls__img" /></a>
+                <a href="#island1" className="controls__links"><img onClick={controlImg}  href='#' src="https://i.imgur.com/Kn1JjEu.jpg" alt="" className="controls__img" /></a>
+                <a href="#island2" className="controls__links"><img onClick={controlImg}  src="https://i.imgur.com/nq4ts7n.jpg" alt="" className="controls__img" /></a>
+                <a href="#island3" className="controls__links"><img onClick={controlImg}  src="https://i.imgur.com/VjG4QKc.jpg" alt="" className="controls__img" /></a>
             </div>
         </div>
     </main>
@@ -247,7 +247,7 @@ export const MainPage = () => {
         </div>
     </section>
     <section className="metrics container" id="metrics">
-        <img className="metrics__img" src="src\assets\img\limp.png" alt="" />
+        <img className="metrics__img" src="https://i.imgur.com/Ra2raXf.png" alt="" />
         <div className="metrics__dates">
             <div className="metrics__dates-1">
                 <h2 className="metrics__date-number">+20</h2>
