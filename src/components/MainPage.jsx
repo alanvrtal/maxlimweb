@@ -7,7 +7,7 @@ import { useState } from "react"
   import "swiper/css/navigation";
   import "swiper/css/thumbs";
   import { FreeMode, Navigation, Pagination, Thumbs } from "swiper";
-import { Footer } from "../../../portafolio3/src/components/Footer";
+import { Footer } from "./Footer";
 
 
 export const MainPage = () => {
